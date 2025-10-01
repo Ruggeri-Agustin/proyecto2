@@ -1,0 +1,16 @@
+.nav{
+	background: rgb(50, 120, 150);
+}
+a{
+	color: white;
+	font-size: 25px;
+	margin: 20px;
+}
+p{
+	width: 100%;
+	background-color: purple;
+	color: white;
+	height: 60px;
+	display: flex;
+	justify-content: center;
+}

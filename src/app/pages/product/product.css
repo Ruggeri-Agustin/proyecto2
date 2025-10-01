@@ -1,0 +1,11 @@
+.btn-action{
+	color: #f8b460;
+}
+.btn-action:hover{
+	background-color: crimson;
+}
+#title{
+	text-align: center;
+	margin: 1px;
+	color: white;
+}
